@@ -2,6 +2,8 @@
 DATA VISUALIZATION IN POWER BI
 
 This project presents a comprehensive Sales Analysis Visualization Dashboard built in Power BI for a global super store with branches across various countries. The goal of the dashboard is to provide stakeholders with detailed insights into sales transactions, with a focus on performance across regions,Country,State, markets, and shipping modes
+
+
 Data Cleaning: The data is transformed in Power Query Editor to ensure the data is clean and ready for analysis. Transformations include removing duplicates, arranging headers, removing blank rows, removing unwanted columns, data formatting, etc.
 
 Visualizations and Reports: Segment the visuals using region, country, state, market, and analyze the data by visualizing the percentage of shipping based on shipping mode.
